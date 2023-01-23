@@ -1,3 +1,8 @@
 # Exercise Tracker
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+This project was done using the boilerplate code supplied by FreeCodeCamp. 
+
+Instructions used for building this project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+
+### View the deployed project in Replit at:
+    https://boilerplate-project-exercisetracker.savithpanamgama.repl.co
